@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "RL Model Zoo for Computational Psychiatry"
+abstract: "Reference implementations of reinforcement learning models used in computational psychiatry: Rescorla-Wagner, Temporal Difference Learning, Q-Learning with softmax, Hierarchical Gaussian Filter, and dual learning rate models."
+authors:
+  - family-names: Zhou
+    given-names: Peter
+    affiliation: "University of Southern California; PRAXIS"
+repository-code: "https://github.com/comp-psych/rl-model-zoo"
+url: "https://github.com/comp-psych/rl-model-zoo"
+keywords:
+  - reinforcement learning
+  - computational psychiatry
+  - Rescorla-Wagner
+  - prediction error
+  - Bayesian
+  - anhedonia
+license: MIT
+date-released: "2026-06-04"
